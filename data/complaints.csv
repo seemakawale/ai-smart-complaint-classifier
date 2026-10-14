@@ -1,0 +1,31 @@
+text,category
+I was charged twice for my order,Payment
+My payment failed but money was deducted,Payment
+I have not received my refund,Payment
+The transaction shows pending for hours,Payment
+My card payment was declined,Payment
+I cannot log into my account,Account
+I forgot my password,Account
+My account has been locked,Account
+I cannot change my email address,Account
+Someone changed my account details,Account
+My order has not arrived,Delivery
+The package is delayed,Delivery
+I received the wrong product,Delivery
+My product arrived damaged,Delivery
+I want to cancel my order,Delivery
+The delivery person never came,Delivery
+I want to return my purchase,Delivery
+How can I track my order,Delivery
+The app keeps crashing,Technical
+The website is not working,Technical
+I cannot upload a document,Technical
+The application is extremely slow,Technical
+The mobile app shows an error,Technical
+Customer support is not responding,Technical
+I need help with my payment,Payment
+My refund is missing,Payment
+My account password does not work,Account
+My order is late,Delivery
+The product I received is damaged,Delivery
+The application keeps crashing,Technical
